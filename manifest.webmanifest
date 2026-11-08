@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "দোকানের বাকি খাতা - সাবিহা কসমেটিক্স",
+  "short_name": "বাকি খাতা",
+  "description": "সাবিহা কসমেটিক্সের গ্রাহকের বাকি ও জমার হিসাব",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5fb",
+  "theme_color": "#6d28d9",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
